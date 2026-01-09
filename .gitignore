@@ -34,3 +34,4 @@ Testing/
 
 # Windows specific
 Thumbs.db
+.env
